@@ -8,7 +8,7 @@ A modern, production-ready Todo application built with React, TypeScript, and st
 
 ## Technologies Used
 
-* **React 18/19** — Functional components, Hooks API (`useCallback`, `useEffect`, `useRef`, `useState`)
+* **React 18** — Functional components, Hooks API (`useCallback`, `useEffect`, `useRef`, `useState`)
 * **TypeScript** — Strict type safety across features, types, and API payloads
 * **Feature-Sliced Design (FSD)** — Advanced architectural pattern for scalable and maintainable frontend applications
 * **SCSS / BEM** — Modular styling with block-element-modifier naming convention

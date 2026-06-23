@@ -1,4 +1,4 @@
-# TODO App (Nice Gadgets Edition)
+# TODO App
 
 A modern, production-ready Todo application built with React, TypeScript, and structured according to the Feature-Sliced Design (FSD) architectural methodology. It features full CRUD operations synchronized with an external REST API.
 
